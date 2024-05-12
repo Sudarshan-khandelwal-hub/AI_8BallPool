@@ -32,6 +32,10 @@ Please review the contents of the requirements.txt file to ensure that all neces
 <code> python -m src.game.main </code>
 Initiate the training process. The value of the variable ALGO is 'dqn'. The variable BALLS should have a value of 2 or more. The option to show the training epochs is optional.
 
+the environment look like this:
+
+https://github.com/Sudarshan-khandelwal-hub/AI_8BallPool/assets/68321559/735ea7ef-58f4-4b9f-8aeb-b5c8afd114a8
+
 ## The command:
 <code> python -m src.model.train [--balls  No. of Balls] [--algo ALGO] --visualize output_model </code>
 
