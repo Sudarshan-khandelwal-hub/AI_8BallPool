@@ -1,4 +1,4 @@
-# AI_8BallPool
+# COMP4105_8_Ball_Pool
 
 ### Execute all of the following commands from the root directory of the DQN folder:
 
