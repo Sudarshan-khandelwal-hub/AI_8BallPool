@@ -60,3 +60,5 @@ The user can provide the model by using the [--model MODEL] option. [--balls BAL
 
 Test rewards and training loss are automatically visualized at the end of test and training epochs, respectively. It is necessary to store the locally created plots.
 
+## References
+https://github.com/nkatz565/CS229-pool
