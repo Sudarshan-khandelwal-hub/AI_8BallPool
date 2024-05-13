@@ -44,7 +44,7 @@ Example: python -m src.model.train --balls 8 --algo dqn output_model
 python -m src.model. is used to run a Python module named "model" located in the "src" package.Train [--balls BALLS] The user is specifying the algorithm to be used, using the command [--algo ALGO]. [--visualize] output_model
 
 ## Conduct the evaluation. 
-The value of ALGO is dqn. BALLS refers to 2 or more balls. MODEL represents the name of the output_model that was used. --The "visualize" option is available for seeing testing results. Periods of time, often used in the context of historical or geological eras.
+The value of ALGO is dqn. BALLS refers to 2 or more balls. MODEL represents the name of the output_model that was used. --The "visualize" option is available for seeing testing results.
 
 To execute the evaluation module of the model, run the following command in the terminal: 
 
